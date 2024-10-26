@@ -1,6 +1,6 @@
 {
-  "rules": {
-    "@typescript-eslint/no-require-imports": "error"
-  },
+  // "rules": {
+  //   "@typescript-eslint/no-require-imports": "error"
+  // },
   "extends": ["next/core-web-vitals", "next/typescript"]
 }
